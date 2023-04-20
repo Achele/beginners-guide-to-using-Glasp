@@ -73,6 +73,12 @@ When you are reading a web article and come across something that catches your a
 6. To share your highlight on Twitter, click the `“Bird icon”`.
    ![Share on Twitter.](/images/Bird%20icon.png "Share on Twitter.")
 
+When watching videos on Youtube, you can use Glasp to generate transcripts with just a click;
+
+1. Click on the `"dropdown icon"` beside the `"transcript and summary"` to get a transcript of the video.
+   ![Youtube transcript.](/images/youtube.png "Youtube transcript.")
+   _Glasps offers AI-generated summary of your transcript which you can easily copy with a click_
+
 ## Glasp Menus
 
 There are three main menu items in Glasp.
@@ -113,10 +119,11 @@ This menu provides you with thorough information and quick access to your activi
 The explore menu, as the name suggests, will assist you in finding content from the community and searching for authors or websites.
 ![Explore Glasp community.](/images/exploreMenu.png "Explore Glasp community.")
 
-# Key point to note about Glasp
+# Key points to note about Glasp
 
 - Glasp, which is an AI-powered highlighting tool, can provide you with an AI-generated summary of not just your own highlights and comments, but also those of the people you follow.
 - Glasp has a feature called `"ask digital me"` that allows you to ask questions on any topic and get answers as well as helpful resources.
+- Glasp do not invade a user's privacy. The Glasp extension is disabled on some domains to avoid mistakenly highlighting sensitive pages. It is secure and all highlighted text is stored locally on the user's browser.
 
 # Resources
 
