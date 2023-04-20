@@ -24,6 +24,11 @@ Do the following:
 - Create a new markdown file that will contain your assignment.
 - Use vscode to write and test your markdown (Send a screenshot of your vscode containing your assignment)
 
+### Screenshot
+![Screen Shot 2023-04-20 at 12 11 41](https://user-images.githubusercontent.com/101713829/233349907-c29e4da9-d688-4537-ac4e-c0350bad2110.png)
+
+
+
 ## My process
 
 I did my research about Glasp and decided on a suitable topic putting into consideration my audience and information architecture.
