@@ -1,4 +1,4 @@
-# Beginners guide to using Glasp
+# Glasps: A beginner's guide to the web highlighting magic you need
 
 Glasp is a social web highlighter tool. Glasp allows you to read articles and take notes in the same browser window.
 
@@ -8,12 +8,12 @@ It is a tool for thinkers, learners, and writers. You can use Glasp to track you
 
 In this article, you will learn:
 
-- What Glasp Is
-- Benefits of using Glasp
-- How to install Glasp browser extension on Chrome
-- How to use Glasp
-- Features of Glasp
-- Key points to note about Glasp
+- [What Glasp Is](#what-is-glasp)
+- [Benefits of using Glasp](#benefits-of-using-glasp)
+- [How to install Glasp browser extension on Chrome](#how-to-install-glasp-browser-extension-on-chrome)
+- [How to use Glasp](#how-to-use-glasp)
+- [Features of Glasp](#glasp-menus)
+- [Key points to note about Glasp](#key-point-to-note-about-glasp)
 
 ## What is Glasp?
 
@@ -21,35 +21,37 @@ It is a social note-taking tool that allows users to highlight and bring togethe
 
 Glasp arranges these highlights so you can quickly get back to what truly matters to you. On Glasp, you can follow people and receive a follow back just like on any other social networking platform, and your followers will see your highlights just as you will see theirs.
 
-Only available on desktops, the Glasp extension offers a simpler and quicker way to highlight text and make online notes. The Windows, MacOS, and Linux operating systems all support it. It is available through Safari or the Chrome Store.
+Only available on desktops, the Glasp extension offers a simpler and quicker way to highlight text and make online notes. The Windows, MacOS, and Linux operating systems all support it. The extension is available on Safari and Chrome Store.
 
 ## Benefits Of Using Glasp
 
 You can learn new things by using Glasp since the app shows you highlights and notes from the people you follow and the wider Glasp community. Exposing you to articles that you might not normally know about or read. As a result, your knowledge base grows and you become a better writer, learner, or thinker.
 
-Additionally, Glasps encourage building, creating, and learning in public. Given that Glasp has a highlight and note-taking feature as well as a social component that lets you follow people and receive a follow in return, your highlights and notes are visible to your followers. Furthermore, you can access not only the highlights of those you are following but also the highlights of the entire Glasp community by using the explore feature.
+Additionally, Glasps encourage building, creating, and learning in public. Given that Glasp has a highlight and note-taking feature as well as a social component that lets you follow people and receive a follow in return, your highlights and notes are visible to your followers.
+
+Furthermore, you can access not only the highlights of those you are following but also the highlights of the entire Glasp community by using the explore feature.
 
 ## How to Install Glasp browser extension on Chrome
 
-1. Open your browser, and type in ["glasp.co"](https://glasp.co/).
-2. Click on the “Install on Chrome” button
+1. Open your browser, and type in [`glasp.co`](https://glasp.co/).
+2. Click on the `"Install on Chrome"` button
    ![Install on Chrome button.](/images/installChrome.png "Glasp installation on Chrome.")
    _The Chrome web store will open up_
-3. Click on the “Add to Chrome” button
+3. Click on the `“Add to Chrome”` button
    ![Add to Chrome Button.](/images/Add2chrome.png "Add to Chrome Button.")
    _A pop-up window will appear asking_
-4. Click on the “Add extension” button
+4. Click on the `“Add extension”` button
    ![Add extension button.](/images/chrome%20popup.png "Add extension button.")
    _Then the Glasp home page will open up_
-5. To pin the Glasp extension, click the “Extension's icon” and then click the “Pin icon” on the home page.
+5. To pin the Glasp extension, click the `“Extension's icon”` and then click the `“Pin icon”` on the home page.
    ![Pin Glasp extension.](/images/pin.png "Pin Glasp extension.")
-6. Click the "Glasp Icon" and then "sign-up."
+6. Click the `"Glasp Icon"` and then `"sign-up."`
    ![Glasp icon to sign-up.](/images/glasp%20signup.png "Glasp icon to sign-up.")
    _The system will redirect you to a sign-up page_
-7. Click on the “Continue with Google” button
+7. Click on the `“Continue with Google”` button
    ![Continue with Google.](/images/continue.png "Continue with Google.")
-   _You’ll receive a confirmation email from Glasp. Click “Confirm your account” in the email._
-8. A confirmation page with the message "Successfully confirmed" will appear. To access your Glasp page, click "Login".
+   _You’ll receive a confirmation email from Glasp. Click `“Confirm your account”` in the email._
+8. A confirmation page with the message `"Successfully confirmed"` will appear. To access your Glasp page, click `"Login"`.
    ![Login.](/images/Login.png "Login.")
    _It will launch your Glasp profile._
    ![Glasp profile.](/images/profile.png "My Glasp profile.")
@@ -58,22 +60,28 @@ Additionally, Glasps encourage building, creating, and learning in public. Given
 
 When you are reading a web article and come across something that catches your attention;
 
-1. “Select that section”. A pop-up will appear with four colors
+1. `“Select that section”`. A pop-up will appear with four colors
    ![Glasp pop-up.](/images/glasp-highlight.png "Glasp pop-up.")
-2. Select any of “the colors” to highlight it.
+2. Select any of `“the colors”` to highlight it.
 
-3. Click on the “quote icon” to make a quote shot if you want any.
+3. Click on the `“quote icon”` to make a quote shot if you want any.
    ![Glasp quote shot.](/images/Quote%20icon.png "Glasp quote shot.")
-4. Click on the “tag icon” to add a tag to your highlights to help organize them for easy access.
+4. Click on the `“tag icon”` to add a tag to your highlights to help organize them for easy access.
    ![Glasp tag.](/images/Tag%20icon.png "Glasp Tag.")
-5. Click the “write icon” to make notes.
+5. Click the `“write icon”` to make notes.
    ![Glasp note-taking.](/images/Write%20icon.png "Glasp Note-Taking.")
-6. To share your highlight on Twitter, click the “Bird icon”.
+6. To share your highlight on Twitter, click the `“Bird icon”`.
    ![Share on Twitter.](/images/Bird%20icon.png "Share on Twitter.")
 
 ## Glasp Menus
 
-There are three main menu items in Glasp. You will discover how to use these options and browse the site with ease.
+There are three main menu items in Glasp.
+
+- [Home menu](#home)
+- [My highlights](#my-highlights)
+- [Explore](#explore)
+
+You will discover how to use these menus and browse the site with ease.
 
 ## **Home**
 
@@ -107,8 +115,8 @@ The explore menu, as the name suggests, will assist you in finding content from 
 
 # Key point to note about Glasp
 
-- Glasp full feature is not available on mobile devices. To enjoy all of Glasp features you need to use a desktop or laptop.
-- For you to make use of the Glasp extension on your computer, you need to login through the extension icon.
+- Glasp, which is an AI-powered highlighting tool, can provide you with an AI-generated summary of not just your own highlights and comments, but also those of the people you follow.
+- Glasp has a feature called `"ask digital me"` that allows you to ask questions on any topic and get answers as well as helpful resources.
 
 # Resources
 
