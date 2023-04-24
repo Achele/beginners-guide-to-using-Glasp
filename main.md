@@ -34,50 +34,54 @@ Furthermore, you can access not only the highlights of those you are following b
 ## How to Install Glasp browser extension on Chrome
 
 1. Open your browser, and type in [`glasp.co`](https://glasp.co/).
-2. Click on the `"Install on Chrome"` button
+2. Click on the `Install on Chrome` button
    ![Install on Chrome button.](/images/installChrome.png "Glasp installation on Chrome.")
-   _The Chrome web store will open up_
-3. Click on the `“Add to Chrome”` button
+   The Chrome web store will open up
+3. Click on the `Add to Chrome` button
    ![Add to Chrome Button.](/images/Add2chrome.png "Add to Chrome Button.")
    _A pop-up window will appear asking_
-4. Click on the `“Add extension”` button
+4. Click on the `Add extension` button
    ![Add extension button.](/images/chrome%20popup.png "Add extension button.")
-   _Then the Glasp home page will open up_
-5. To pin the Glasp extension, click the `“Extension's icon”` and then click the `“Pin icon”` on the home page.
+   Then the Glasp home page will open up
+5. To pin the Glasp extension, click the `Extension's icon` and then click the `Pin icon` on the home page.
    ![Pin Glasp extension.](/images/pin.png "Pin Glasp extension.")
-6. Click the `"Glasp Icon"` and then `"sign-up."`
+6. Click the `Glasp Icon` and then `sign-up.`
    ![Glasp icon to sign-up.](/images/glasp%20signup.png "Glasp icon to sign-up.")
-   _The system will redirect you to a sign-up page_
-7. Click on the `“Continue with Google”` button
+   The system will redirect you to a sign-up page
+7. Click on the `Continue with Google` button
    ![Continue with Google.](/images/continue.png "Continue with Google.")
-   _You’ll receive a confirmation email from Glasp. Click `“Confirm your account”` in the email._
-8. A confirmation page with the message `"Successfully confirmed"` will appear. To access your Glasp page, click `"Login"`.
+   You’ll receive a confirmation email from Glasp. Click `Confirm your account` in the email.
+8. A confirmation page with the message `Successfully confirmed` will appear. To access your Glasp page, click `Login`.
    ![Login.](/images/Login.png "Login.")
-   _It will launch your Glasp profile._
+   It will launch your Glasp profile.
    ![Glasp profile.](/images/profile.png "My Glasp profile.")
 
 ## How to use Glasp
 
+<video loop src="Glaspp.mp4" style="max-width: 530px" autoplay=""></video>
+
+<!-- ![video](/Glaspp.mp4) -->
+
 When you are reading a web article and come across something that catches your attention;
 
-1. `“Select that section”`. A pop-up will appear with four colors
+1. Select that section. A pop-up will appear with four colors
    ![Glasp pop-up.](/images/glasp-highlight.png "Glasp pop-up.")
-2. Select any of `“the colors”` to highlight it.
+2. Select any of the colors to highlight it.
 
-3. Click on the `“quote icon”` to make a quote shot if you want any.
+3. Click on the `quote icon` to make a quote shot if you want any.
    ![Glasp quote shot.](/images/Quote%20icon.png "Glasp quote shot.")
-4. Click on the `“tag icon”` to add a tag to your highlights to help organize them for easy access.
+4. Click on the `tag icon` to add a tag to your highlights to help organize them for easy access.
    ![Glasp tag.](/images/Tag%20icon.png "Glasp Tag.")
-5. Click the `“write icon”` to make notes.
+5. Click the `write icon` to make notes.
    ![Glasp note-taking.](/images/Write%20icon.png "Glasp Note-Taking.")
-6. To share your highlight on Twitter, click the `“Bird icon”`.
+6. To share your highlight on Twitter, click the `Bird icon`.
    ![Share on Twitter.](/images/Bird%20icon.png "Share on Twitter.")
 
 When watching videos on Youtube, you can use Glasp to generate transcripts with just a click;
 
-1. Click on the `"dropdown icon"` beside the `"transcript and summary"` to get a transcript of the video.
+1. Click on the `dropdown icon` beside the `transcript and summary` to get a transcript of the video.
    ![Youtube transcript.](/images/youtube.png "Youtube transcript.")
-   _Glasps offers AI-generated summary of your transcript which you can easily copy with a click_
+   Glasps offers AI-generated summary of your transcript which you can easily copy with a click
 
 ## Glasp Menus
 
@@ -122,8 +126,11 @@ The explore menu, as the name suggests, will assist you in finding content from 
 # Key points to note about Glasp
 
 - Glasp, which is an AI-powered highlighting tool, can provide you with an AI-generated summary of not just your own highlights and comments, but also those of the people you follow.
-- Glasp has a feature called `"ask digital me"` that allows you to ask questions on any topic and get answers as well as helpful resources.
+- Glasp has a feature called `ask digital me` that allows you to ask questions on any topic and get answers as well as helpful resources.
+- The founders get to provide an answer to the question. You get to choose from either one of [Kie](https://glasp.co/#/kei) [Kazuki](https://glasp.co/#/kazuki)
 - Glasp do not invade a user's privacy. The Glasp extension is disabled on some domains to avoid mistakenly highlighting sensitive pages. It is secure and all highlighted text is stored locally on the user's browser.
+- Glasp is currently only available as a browser extension for desktop and laptop computers therefore, it's full feature is not available on mobile devices for now. However, you can access your profile, feed and export highlights and notes when using mobile.
+- The "talk to founders" function on Glasp allows you to arrange a 15-minute call with any of the founders because Glasp values your opinion and feedback as a user.
 
 # Resources
 
