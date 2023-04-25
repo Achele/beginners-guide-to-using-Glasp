@@ -59,7 +59,7 @@ Furthermore, you can access not only the highlights of those you are following b
 ## How to use Glasp
 
 
-![Highlighting with Glasp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVhZGJmYjVmNTY4YWFmNmEwYjQ5N2Q3ZGY5MjNlOGY5ZWNkZGY0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7KnDzspNNLxZ17ai4w/giphy.gif)
+![Highlighting with Glasp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVhZGJmYjVmNTY4YWFmNmEwYjQ5N2Q3ZGY5MjNlOGY5ZWNkZGY0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7KnDzspNNLxZ17ai4w/giphy.gif "To highlight with Glasp while reading an article on the web, select the portion you find interesting. A small box will appear with four colors inside. Choose any of the colors to highlight it. Click on the highlighted portion to make further additions to it from the options provided")
 
 <!-- ![video](/Glaspp.mp4) -->
 
