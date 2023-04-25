@@ -13,7 +13,7 @@ In this article, you will learn:
 - [How to install Glasp browser extension on Chrome](#how-to-install-glasp-browser-extension-on-chrome)
 - [How to use Glasp](#how-to-use-glasp)
 - [Features of Glasp](#glasp-menus)
-- [Key points to note about Glasp](#key-point-to-note-about-glasp)
+- [Key points to note about Glasp](#key-points-to-note-about-glasp)
 
 ## What is Glasp?
 
@@ -58,7 +58,8 @@ Furthermore, you can access not only the highlights of those you are following b
 
 ## How to use Glasp
 
-<video loop src="Glaspp.mp4" style="max-width: 530px" autoplay=""></video>
+
+![Highlighting with Glasp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVhZGJmYjVmNTY4YWFmNmEwYjQ5N2Q3ZGY5MjNlOGY5ZWNkZGY0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7KnDzspNNLxZ17ai4w/giphy.gif)
 
 <!-- ![video](/Glaspp.mp4) -->
 
